@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ShopList</string>
+    <string name="save">Save</string>
+    <string name="titleHint">название нового списка</string>
+    <string-array name="unit">
+        <item>kg</item>
+        <item>gr</item>
+        <item>Liter</item>
+        <item>piece</item>
+    </string-array>
+</resources>
